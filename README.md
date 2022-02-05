@@ -1,2 +1,3 @@
-# go-exchange
+# Go Exchange
+
 Stock Exchange in Go
